@@ -17,3 +17,10 @@ A simple Python-based cybersecurity project that checks the strength of a passwo
 1. Install Python
 2. Run:
    python password_checker.py
+   ## 🖥 Example Output
+
+Enter your password: Hello123  
+Password Strength: Medium ⚠️
+
+Enter your password: Hello@123Secure  
+Password Strength: Strong ✅
